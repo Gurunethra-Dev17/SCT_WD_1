@@ -46,4 +46,4 @@ https://gurunethra-dev17.github.io/UpBeatX/
 
 ## GitHub Repository
 
-Add your GitHub repository link here.
+https://github.com/Gurunethra-Dev17/UpBeatX
