@@ -137,21 +137,35 @@ h3{
     opacity:1;
     transform: translateY(0);
 }
-footer{
+#contact{
     height:100px;
     z-index:2;
 }
 @media(max-width:768px){
-    .hero h2{
-        font-size:2.5rem;
+    .navbar{
+        display:flex;
+        justify-content: space-between;
     }
+
     .navbar nav{
-        gap:15px;
+        gap:10px;
     }
-    .box .mony{
+    .box{
         display:flex;
         flex-direction:column;
         gap:10px;
         align-items:center;
     }
+     .testimony{
+        display:flex;
+        flex-direction:column;
+        gap:10px;
+        align-items:center;
+    }
+    #contact{
+        margin-top:300px;
+    }
+
 }
+
+
