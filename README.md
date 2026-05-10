@@ -42,7 +42,7 @@ This project was created as part of a Web Development Virtual Internship to impr
 
 ## Live Demo
 
-Add your deployed website link here.
+https://gurunethra-dev17.github.io/UpBeatX/
 
 ## GitHub Repository
 
